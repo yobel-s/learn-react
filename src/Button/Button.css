@@ -1,0 +1,10 @@
+/* ----- SECOND CODE ----- */
+
+.button{
+    background-color: hsla(270, 100%, 50%, 0.5);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}  

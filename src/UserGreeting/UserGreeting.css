@@ -1,0 +1,18 @@
+/* ----- FORTH CODE ----- */
+
+.welcome-message{
+    font-size: 2.5em;
+    color: white;
+    padding: 10px;
+    background-color: rgb(234, 5, 255);
+    border-radius: 15px;
+    margin: 0;
+}
+.login-message{
+    font-size: 2.5em;
+    color: white;
+    padding: 10px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 15px;
+    margin: 0;
+}

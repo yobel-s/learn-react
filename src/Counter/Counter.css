@@ -1,0 +1,24 @@
+/* ----- SEVEN CODE ----- */
+
+.counter-container{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.count-display{
+    font-size: 10em;
+    margin: 0;
+}
+.counter-button{
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 1.5em;
+    margin: 0px 5px;
+    border: none;
+    border-radius: 15px;
+    background-color: hsl(16, 100%, 66%);
+    cursor: pointer;
+}
+.counter-button:hover{
+    background-color: hsl(16, 100%, 50%);
+}

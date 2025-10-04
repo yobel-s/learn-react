@@ -1,0 +1,30 @@
+main {
+  max-width: 900px;
+  margin: 0 auto; /* center content */
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.students-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.lists-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
